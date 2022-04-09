@@ -1,0 +1,47 @@
+[07-Apr-2022 04:20:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 1
+[07-Apr-2022 04:20:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 1
+[07-Apr-2022 04:25:19 UTC] PHP Fatal error:  Uncaught Error: Class 'get_categories' not found in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php:21
+Stack trace:
+#0 /home/projetos/public_html/agenciaade/wp-includes/rest-api/class-wp-rest-server.php(1141): endpoint_tipos(Object(WP_REST_Request))
+#1 /home/projetos/public_html/agenciaade/wp-includes/rest-api/class-wp-rest-server.php(988): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/tipos', Array, NULL)
+#2 /home/projetos/public_html/agenciaade/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/projetos/public_html/agenciaade/wp-includes/rest-api.php(386): WP_REST_Server->serve_request('/wp/v2/tipos')
+#4 /home/projetos/public_html/agenciaade/wp-includes/class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 /home/projetos/public_html/agenciaade/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /home/projetos/public_html/agenciaade/wp-includes/plugin.php(522):  in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 21
+[07-Apr-2022 04:55:53 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:55:53 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:55:53 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:55:53 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:55:53 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:55:53 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:18 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:18 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:18 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:18 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:18 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:18 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:57:29 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:09 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:09 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:09 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:09 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:09 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:09 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:22 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:22 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:22 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:22 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:22 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
+[07-Apr-2022 04:58:22 UTC] PHP Warning:  A non-numeric value encountered in /home/projetos/public_html/agenciaade/wp-content/themes/ademesmo/functions/functions-api.php on line 31
